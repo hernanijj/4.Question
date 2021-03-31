@@ -1,5 +1,5 @@
 # 4.Question
- 
+ Write an Unit Test using C/C++ or Java for the function ConcatRemove(s,t,k)
 
 ### This code was developed in C++ using Code Blocks on windows 10
 
