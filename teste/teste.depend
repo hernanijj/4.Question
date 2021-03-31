@@ -1,0 +1,507 @@
+# depslib dependency file v1.0
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\assertexception.cpp
+	"AssertException.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\assertexception.h
+	"Config.h"
+	"HelperMacros.h"
+	<exception>
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\config.h
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\helpermacros.h
+	"Config.h"
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\checks.cpp
+	"Checks.h"
+	<cstring>
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\checks.h
+	"Config.h"
+	"TestResults.h"
+	"MemoryOutStream.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\testresults.h
+	"HelperMacros.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\memoryoutstream.h
+	"Config.h"
+	"HelperMacros.h"
+	<sstream>
+	<cstddef>
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\compositetestreporter.cpp
+	"CompositeTestReporter.h"
+	<cstddef>
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\compositetestreporter.h
+	"TestReporter.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\testreporter.h
+	"HelperMacros.h"
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\currenttest.cpp
+	"CurrentTest.h"
+	<cstddef>
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\currenttest.h
+	"HelperMacros.h"
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\deferredtestreporter.cpp
+	"Config.h"
+	"DeferredTestReporter.h"
+	"TestDetails.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\deferredtestreporter.h
+	"Config.h"
+	"TestReporter.h"
+	"DeferredTestResult.h"
+	<vector>
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\deferredtestresult.h
+	"Config.h"
+	"HelperMacros.h"
+	<string>
+	<vector>
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\testdetails.h
+	"HelperMacros.h"
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\deferredtestresult.cpp
+	"Config.h"
+	"DeferredTestResult.h"
+	<cstring>
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\memoryoutstream.cpp
+	"MemoryOutStream.h"
+	<cstring>
+	<cstdio>
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\reportassert.cpp
+	"ReportAssert.h"
+	"ReportAssertImpl.h"
+	"AssertException.h"
+	"CurrentTest.h"
+	"TestResults.h"
+	"TestDetails.h"
+	"ReportAssertImpl.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\reportassert.h
+	"HelperMacros.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\reportassertimpl.h
+	"Config.h"
+	"HelperMacros.h"
+	<csetjmp>
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\requiredcheckexception.cpp
+	"RequiredCheckException.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\requiredcheckexception.h
+	"Config.h"
+	"HelperMacros.h"
+	<exception>
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\requiredchecktestreporter.cpp
+	"RequiredCheckTestReporter.h"
+	"CurrentTest.h"
+	"TestResults.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\requiredchecktestreporter.h
+	"HelperMacros.h"
+	"ThrowingTestReporter.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\throwingtestreporter.h
+	"TestReporter.h"
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\test.cpp
+	"Config.h"
+	"Test.h"
+	"TestList.h"
+	"TestResults.h"
+	"AssertException.h"
+	"MemoryOutStream.h"
+	"ExecuteTest.h"
+	"Posix/SignalTranslator.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\test.h
+	"TestDetails.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\testlist.h
+	"HelperMacros.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\executetest.h
+	"Config.h"
+	"ExceptionMacros.h"
+	"TestDetails.h"
+	"TestResults.h"
+	"MemoryOutStream.h"
+	"AssertException.h"
+	"RequiredCheckException.h"
+	"CurrentTest.h"
+	"ReportAssertImpl.h"
+	"Posix/SignalTranslator.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\exceptionmacros.h
+	"Config.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\posix\signaltranslator.h
+	<setjmp.h>
+	<signal.h>
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\testdetails.cpp
+	"TestDetails.h"
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\testlist.cpp
+	"TestList.h"
+	"Test.h"
+	<cassert>
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\testreporter.cpp
+	"TestReporter.h"
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\testreporterstdout.cpp
+	"TestReporterStdout.h"
+	<cstdio>
+	"TestDetails.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\testreporterstdout.h
+	"TestReporter.h"
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\testresults.cpp
+	"TestResults.h"
+	"TestReporter.h"
+	"TestDetails.h"
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\testrunner.cpp
+	"TestRunner.h"
+	"TestResults.h"
+	"TestReporter.h"
+	"TestReporterStdout.h"
+	"TimeHelpers.h"
+	"MemoryOutStream.h"
+	<cstring>
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\testrunner.h
+	"Test.h"
+	"TestList.h"
+	"CurrentTest.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\timehelpers.h
+	"Config.h"
+	"Posix/TimeHelpers.h"
+	"Win32/TimeHelpers.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\posix\timehelpers.h
+	<sys/time.h>
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\win32\timehelpers.h
+	"../Config.h"
+	"../HelperMacros.h"
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\throwingtestreporter.cpp
+	"ThrowingTestReporter.h"
+	"RequiredCheckException.h"
+	"ReportAssertImpl.h"
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\timeconstraint.cpp
+	"TimeConstraint.h"
+	"TestResults.h"
+	"MemoryOutStream.h"
+	"CurrentTest.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\timeconstraint.h
+	"TimeHelpers.h"
+	"HelperMacros.h"
+	"TestDetails.h"
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\win32\timehelpers.cpp
+	"TimeHelpers.h"
+	<windows.h>
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\xmltestreporter.cpp
+	"Config.h"
+	"XmlTestReporter.h"
+	<iostream>
+	<sstream>
+	<string>
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\xmltestreporter.h
+	"Config.h"
+	"DeferredTestReporter.h"
+	<iosfwd>
+
+1617129280 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\teste\main.cpp
+	<iostream>
+	"UnitTest++.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\teste\unittest++.h
+	"UnitTestPP.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\unittestpp.h
+	"Config.h"
+	"TestMacros.h"
+	"CheckMacros.h"
+	"RequireMacros.h"
+	"TestRunner.h"
+	"TimeConstraint.h"
+	"ReportAssert.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\testmacros.h
+	"Config.h"
+	"TestSuite.h"
+	"ExceptionMacros.h"
+	"ExecuteTest.h"
+	"AssertException.h"
+	"TestDetails.h"
+	"MemoryOutStream.h"
+	"Posix/SignalTranslator.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\testsuite.h
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\checkmacros.h
+	"HelperMacros.h"
+	"ExceptionMacros.h"
+	"Checks.h"
+	"AssertException.h"
+	"RequiredCheckException.h"
+	"MemoryOutStream.h"
+	"TestDetails.h"
+	"CurrentTest.h"
+	"ReportAssertImpl.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\teste\unittest++\requiremacros.h
+	"RequiredCheckTestReporter.h"
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\assertexception.cpp
+	"AssertException.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\assertexception.h
+	"Config.h"
+	"HelperMacros.h"
+	<exception>
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\config.h
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\helpermacros.h
+	"Config.h"
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\checks.cpp
+	"Checks.h"
+	<cstring>
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\checks.h
+	"Config.h"
+	"TestResults.h"
+	"MemoryOutStream.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\testresults.h
+	"HelperMacros.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\memoryoutstream.h
+	"Config.h"
+	"HelperMacros.h"
+	<sstream>
+	<cstddef>
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\compositetestreporter.cpp
+	"CompositeTestReporter.h"
+	<cstddef>
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\compositetestreporter.h
+	"TestReporter.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\testreporter.h
+	"HelperMacros.h"
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\currenttest.cpp
+	"CurrentTest.h"
+	<cstddef>
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\currenttest.h
+	"HelperMacros.h"
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\deferredtestreporter.cpp
+	"Config.h"
+	"DeferredTestReporter.h"
+	"TestDetails.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\deferredtestreporter.h
+	"Config.h"
+	"TestReporter.h"
+	"DeferredTestResult.h"
+	<vector>
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\deferredtestresult.h
+	"Config.h"
+	"HelperMacros.h"
+	<string>
+	<vector>
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\testdetails.h
+	"HelperMacros.h"
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\deferredtestresult.cpp
+	"Config.h"
+	"DeferredTestResult.h"
+	<cstring>
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\memoryoutstream.cpp
+	"MemoryOutStream.h"
+	<cstring>
+	<cstdio>
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\reportassert.cpp
+	"ReportAssert.h"
+	"ReportAssertImpl.h"
+	"AssertException.h"
+	"CurrentTest.h"
+	"TestResults.h"
+	"TestDetails.h"
+	"ReportAssertImpl.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\reportassert.h
+	"HelperMacros.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\reportassertimpl.h
+	"Config.h"
+	"HelperMacros.h"
+	<csetjmp>
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\requiredcheckexception.cpp
+	"RequiredCheckException.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\requiredcheckexception.h
+	"Config.h"
+	"HelperMacros.h"
+	<exception>
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\requiredchecktestreporter.cpp
+	"RequiredCheckTestReporter.h"
+	"CurrentTest.h"
+	"TestResults.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\requiredchecktestreporter.h
+	"HelperMacros.h"
+	"ThrowingTestReporter.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\throwingtestreporter.h
+	"TestReporter.h"
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\test.cpp
+	"Config.h"
+	"Test.h"
+	"TestList.h"
+	"TestResults.h"
+	"AssertException.h"
+	"MemoryOutStream.h"
+	"ExecuteTest.h"
+	"Posix/SignalTranslator.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\test.h
+	"TestDetails.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\testlist.h
+	"HelperMacros.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\executetest.h
+	"Config.h"
+	"ExceptionMacros.h"
+	"TestDetails.h"
+	"TestResults.h"
+	"MemoryOutStream.h"
+	"AssertException.h"
+	"RequiredCheckException.h"
+	"CurrentTest.h"
+	"ReportAssertImpl.h"
+	"Posix/SignalTranslator.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\exceptionmacros.h
+	"Config.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\posix\signaltranslator.h
+	<setjmp.h>
+	<signal.h>
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\testdetails.cpp
+	"TestDetails.h"
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\testlist.cpp
+	"TestList.h"
+	"Test.h"
+	<cassert>
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\testreporter.cpp
+	"TestReporter.h"
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\testreporterstdout.cpp
+	"TestReporterStdout.h"
+	<cstdio>
+	"TestDetails.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\testreporterstdout.h
+	"TestReporter.h"
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\testresults.cpp
+	"TestResults.h"
+	"TestReporter.h"
+	"TestDetails.h"
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\testrunner.cpp
+	"TestRunner.h"
+	"TestResults.h"
+	"TestReporter.h"
+	"TestReporterStdout.h"
+	"TimeHelpers.h"
+	"MemoryOutStream.h"
+	<cstring>
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\testrunner.h
+	"Test.h"
+	"TestList.h"
+	"CurrentTest.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\timehelpers.h
+	"Config.h"
+	"Posix/TimeHelpers.h"
+	"Win32/TimeHelpers.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\posix\timehelpers.h
+	<sys/time.h>
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\win32\timehelpers.h
+	"../Config.h"
+	"../HelperMacros.h"
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\throwingtestreporter.cpp
+	"ThrowingTestReporter.h"
+	"RequiredCheckException.h"
+	"ReportAssertImpl.h"
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\timeconstraint.cpp
+	"TimeConstraint.h"
+	"TestResults.h"
+	"MemoryOutStream.h"
+	"CurrentTest.h"
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\timeconstraint.h
+	"TimeHelpers.h"
+	"HelperMacros.h"
+	"TestDetails.h"
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\win32\timehelpers.cpp
+	"TimeHelpers.h"
+	<windows.h>
+
+1605245198 source:c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\xmltestreporter.cpp
+	"Config.h"
+	"XmlTestReporter.h"
+	<iostream>
+	<sstream>
+	<string>
+
+1605245198 c:\users\hernanijusto\desktop\estágio\siemens\1_exerc\4.question\unittest++\xmltestreporter.h
+	"Config.h"
+	"DeferredTestReporter.h"
+	<iosfwd>
+
